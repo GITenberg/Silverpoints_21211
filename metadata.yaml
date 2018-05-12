@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9768
     wikipedia: http://en.wikipedia.org/wiki/John_Gray_%28poet%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21211#Silverpoints
 gutenberg_issued: '2007-04-24'
 gutenberg_type: Text
 identifiers:
